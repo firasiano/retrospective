@@ -1,0 +1,12 @@
+/* CSS declarations go here */
+
+.mdl-card {
+	width: 90% !important;
+	margin-left: auto;
+	margin-right: auto;
+}
+@media screen and (max-width: 1024px){
+	.mdl-layout__header {
+	    display: block !important;
+	}
+}
